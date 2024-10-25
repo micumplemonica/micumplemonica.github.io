@@ -1265,7 +1265,7 @@ margin-top: 0px;
   color:black;
   background-color: transparent;
   text-align: center;
-  
+  z-index: 99;
 }
 
 .pie{
@@ -1667,6 +1667,7 @@ border-bottom-right-radius: 50px 50px;
   height: 100%;
   overflow: auto;
   background-color: black;
+  z-index: 99;
 }
 
 /* Modal Content */
